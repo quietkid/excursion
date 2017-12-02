@@ -4,3 +4,29 @@ html {
   background-color: black;
   text-align: center;
 }
+
+.main-heading {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download-link {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.sub-heading {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description {
+  color: Gray;
+  font-size: 21px;
+}
+
+#copyright {
+  color: Gray;
+  text-align: right;
+}
